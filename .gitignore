@@ -164,3 +164,5 @@ covid_submissions_all_info.csv
 
 clean_df.csv
 FLuID_full.sdf
+
+logs/
